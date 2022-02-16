@@ -59,16 +59,16 @@
 •	Firebase<br>
 <br>
 
-<br>
+
 <h3>Reports</h3>
 
-1) Booking confirmation (Display status of tickets) <br>
-2) Software Updates (From Developers to Project Manager) <br>
+1) Booking confirmation - To splay status of tickets <br>
+2) Software Updates - To From Developers to Project Manager <br>
 3) SRS (Software Requirement Specification) <br>
-4) Testing Report (Testing Objectives, Activities, and Requirements) <br>
-5) Time tracking Report (Track Overall time spent for each task) <br>
-6) Project Health Report (Updating Stakeholders the status of the project) <br>
-7) Feedback (From Users, Theater management regarding their feedback on using the software) <br>
+4) Testing Report - To Testing Objectives, Activities, and Requirements <br>
+5) Time tracking Report - To Track Overall time spent for each task <br>
+6) Project Health Report - To Updating Stakeholders the status of the project <br>
+7) Feedback - To From Users, Theater management regarding their feedback on using the software <br>
 
 <br>
 
