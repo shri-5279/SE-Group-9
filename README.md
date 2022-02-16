@@ -46,7 +46,7 @@
    Primary purpose of making the software is to create an automatic system which will provide an easy and alternate way to book a ticket for a movie. The customer will need to enter the information related to film after which the system will provide options to book the ticket. The staff of the cinema hall won’t have to do anything for the ticket booking as the process will be done by the customer through the software which will reduce the amount of staff required in the booking counter.
    
 <br>
-<h3>TECHNOLOGIES USED</h3>
+<h3>Tech Stack</h3>
 
 •	HTML<br>
 •	CSS<br>
@@ -59,4 +59,16 @@
 •	Firebase<br>
 <br>
 
+<br>
+<h3>Reports</h3>
+
+1) Booking confirmation (Display status of tickets) <br>
+2) Software Updates (From Developers to Project Manager) <br>
+3) SRS (Software Requirement Specification) <br>
+4) Testing Report (Testing Objectives, Activities, and Requirements) <br>
+5) Time tracking Report (Track Overall time spent for each task) <br>
+6) Project Health Report (Updating Stakeholders the status of the project) <br>
+7) Feedback (From Users, Theater management regarding their feedback on using the software) <br>
+
+<br>
 
